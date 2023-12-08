@@ -1,0 +1,10 @@
+fsm_rtc.c:17:6:update_time	24	static
+fsm_rtc.c:27:6:displayTime	24	static
+fsm_rtc.c:37:6:switchTimeAtIndex	32	static
+fsm_rtc.c:71:6:convert_large_values	16	static
+fsm_rtc.c:124:6:update_clock	16	static
+fsm_rtc.c:179:6:showTime	48	static
+fsm_rtc.c:184:6:blinky	16	static
+fsm_rtc.c:193:5:check_timer_clock	16	static
+fsm_rtc.c:204:6:fsm_rtc_button_processing	32	static
+fsm_rtc.c:324:6:fsm_rtc	24	static
